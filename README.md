@@ -162,4 +162,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Save the HTML code as `index.html` and open it in any modern browser. The app will automatically download the TensorFlow.js model on first load (cached for subsequent uses).
 
-for more contact professorshami435@gmail.com
+for more projects and FYP'scontact professorshami435@gmail.com
