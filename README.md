@@ -3,12 +3,12 @@
 I'll create a **production-ready Neural Style Transfer web application** with TensorFlow.js running entirely in the browser. This will be a stunning, fully-functional single-page app with drag-and-drop uploads, preset styles, real-time progress tracking, and download capabilities.
 
 ```
-
+ 
 ---
 
 ## GitHub Repository Description
 
-```markdown
+```markdown 
 # 🎨 Neural Style Transfer Studio
 
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.10-FF6F00?logo=tensorflow)](https://www.tensorflow.org/js)
